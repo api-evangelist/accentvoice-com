@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Accentvoice Com Domain Security](https://apis.io/security/accentvoice-com/accentvoice-com-domain-security/)
+- [Accent Domain Security](https://apis.io/security/accentvoice-com/accentvoice-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Accentvoice Com Plans Pricing](https://apis.io/plans/accentvoice-com/accentvoice-com-plans-pricing/)
+- [Accent Plans Pricing](https://apis.io/plans/accentvoice-com/accentvoice-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -105,18 +105,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 27.3** — thin · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 19.6** — emerging · rubric 0.27.0 · scored 2026-11-06
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 49.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 26.3 |
-| Developer ergonomics | 35.7 |
-| Access clarity | 60.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 17.9 |
+| Access clarity | 47.4 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -131,7 +131,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -141,8 +141,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/accentvoice-com/](https://apis.io/providers/accentvoice-com/).
 
